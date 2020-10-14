@@ -9,3 +9,9 @@ Step 2 : Then install dependencies by python run requirements.txt
 step 3 : Input an image to the script 
 Step 4 : Run the script and see the output 
 ```
+
+### Preview
+
+Image generated using [generated.photos](https://generated.photos/face/neutral-asian-young-adult-female-with-long-brown-hair-and-brown-eyes--5e6888c86d3b380006f215d7)
+
+![](example.jpg?raw=true)
